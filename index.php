@@ -10,5 +10,4 @@
 ?>
 Something is wrong with the XAMPP installation :-(
 test
-nitin
-vithhal
+ 
